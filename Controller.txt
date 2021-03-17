@@ -1,2 +1,0 @@
-ctrl data 1
-ctrl data10
